@@ -7,7 +7,7 @@ Master of Business Administration (M.B.A) in Logistics & Supply Chain Management
 Bachelor of Arts (B.A.) Chinese Language and Culture | Huachiew Chalermprakiet University - Thailand
 
 ### Skill
-#● IT Security Management		            
+# ● IT Security Management		            
 #● Security Controls		    
 #● Legal and Ethical Aspects of IT Security
 #● Associated cyber risks		            
