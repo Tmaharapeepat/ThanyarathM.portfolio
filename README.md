@@ -6,12 +6,12 @@
   <p>I am an enthusiastic professional with overseas purchasing experience and a strong interest in cybersecurity. Currently seeking entry-level roles in cybersecurity or penetration testing, where I can apply my knowledge and passion for digital safety.</p>
   <p>https://www.linkedin.com/in/thanyarath-maharapeepat-7b8618169<p>
 
-### Education
+# Education
 - <b>Master of Business Administration (M.B.A) Concentration in Cyber Security | The University of Texas at Tyler – United States
 - <b>Master of Business Administration (M.B.A) in Logistics & Supply Chain Management| Ramkhamhaeng University – Thailand
 - <b>Bachelor of Arts (B.A.) Chinese Language and Culture | Huachiew Chalermprakiet University - Thailand
 
-### Skill
+# Skill
 - <b> IT Security Management		            
 - <b> Security Controls		    
 - <b> Legal and Ethical Aspects of IT Security
@@ -25,8 +25,8 @@
 - <b> Python coding language 	
 - <b> Microsoft Office Suite
 
-### Work Experience
-## Dental Specialist @ United States Army 
+# Work Experience
+# Dental Specialist @ United States Army 
 
 - <b>Managed patient documentation and compliance using secure data systems while maintaining a trustworthy and detail-oriented approach.
 - <b>Oversaw procurement and inventory processes with attention to budget constraints and strategic planning to ensure clinic readiness.
@@ -36,7 +36,7 @@
 - <b>Collaborated across units and disciplines to implement goals, support risk frameworks, and meet strategic outcomes.
 - <b>Demonstrated research and problem-solving abilities to enhance logistical planning and resource allocation.
 
-## Customer service @ H Mart
+# Customer service @ H Mart
 
 - <b>Managed sales transactions and inventory data with integrity and accuracy, applying internal control standards.
 - <b>Addressed customer issues and inquiries, demonstrating responsibility, empathy, and effective communication.
@@ -45,7 +45,7 @@
 - <b>Demonstrated adaptability and time management under high-pressure situations with diverse customer needs.
 - <b>Developed data tracking habits and analytic skills to support improved service delivery.
 
-## Oversea Purchasing Supervisor @ PATKOL PUBLIC COMPANY LIMITED (Thailand)
+# Oversea Purchasing Supervisor @ PATKOL PUBLIC COMPANY LIMITED (Thailand)
 
 - <b>Planned and managed overseas orders while coordinating with suppliers to meet critical deadlines.
 - <b>Negotiated pricing and specifications, improving cost-efficiency and stakeholder communication.
@@ -56,7 +56,7 @@
 - <b>Maintained integrity under pressure, delivering timely and accurate outcomes.
 - <b>Demonstrated strong negotiation and interpersonal capabilities in a global business context.
 
-## Chinese Interpreter (Oversea Purchase) @ KEMFAC CO.,LTD (Thailand)
+# Chinese Interpreter (Oversea Purchase) @ KEMFAC CO.,LTD (Thailand)
 
 - <b>Summarized inventory reports, improving clarity and reporting efficiency.
 - <b>Followed up on shipping documents and managed logistics workflows.
