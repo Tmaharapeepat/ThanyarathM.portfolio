@@ -7,18 +7,18 @@
 - <b>Bachelor of Arts (B.A.) Chinese Language and Culture | Huachiew Chalermprakiet University - Thailand
 
 ### Skill
-● IT Security Management		            
-● Security Controls		    
-● Legal and Ethical Aspects of IT Security
-● Associated cyber risks		            
-● Incident detection	  	
-● Strategic and response planning
-● Organizational recovery techniques	  
-● Attention to detail		  
-● Teamwork skills
-● Adapt quickly to evolving challenges  
-● Python coding language 	
-● Microsoft Office Suite
+- <b>● IT Security Management		            
+- <b>● Security Controls		    
+- <b>● Legal and Ethical Aspects of IT Security
+- <b>● Associated cyber risks		            
+- <b>● Incident detection	  	
+- <b>● Strategic and response planning
+- <b>● Organizational recovery techniques	  
+- <b>● Attention to detail		  
+- <b>● Teamwork skills
+- <b>● Adapt quickly to evolving challenges  
+- <b>● Python coding language 	
+- <b>● Microsoft Office Suite
 
 ### Work Experience
 ## Dental Specialist @ United States Army 
