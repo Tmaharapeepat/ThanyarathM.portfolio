@@ -1,4 +1,4 @@
-# Hi, I'm Thanyarath Maharapeepat👋
+# Hi👋
 
 # Cybersecurity and Supply Chain Management
 
