@@ -1,5 +1,7 @@
 # ThanyarathM.portfolio
-# Cybersecurity
+st.title("Hi, I'm Thanyarath 👋")
+<img
+# Cybersecurity and Supply Chain Management
 
 ### Education
 - <b>Master of Business Administration (M.B.A) Concentration in Cyber Security | The University of Texas at Tyler – United States
