@@ -1,5 +1,5 @@
 # Hi, I'm Thanyarath Maharapeepat👋
-<img src="https://ibb.co/fV3110kb">
+
 # Cybersecurity and Supply Chain Management
 
 ### Education
