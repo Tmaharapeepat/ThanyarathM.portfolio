@@ -1,5 +1,4 @@
-# ThanyarathM.portfolio
-st.title ("Hi, I'm Thanyarath 👋")
+# Hi, I'm Thanyarath 👋
 <img
 # Cybersecurity and Supply Chain Management
 
