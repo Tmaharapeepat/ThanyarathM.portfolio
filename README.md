@@ -7,10 +7,10 @@ Master of Business Administration (M.B.A) in Logistics & Supply Chain Management
 Bachelor of Arts (B.A.) Chinese Language and Culture | Huachiew Chalermprakiet University - Thailand
 
 ### Skill
-● IT Security Management		            ● Security Controls		    ● Legal and Ethical Aspects of IT Security
-● Associated cyber risks		            ● Incident detection	  	● Strategic and response planning
-● Organizational recovery techniques	  ● Attention to detail		  ● Teamwork skills
-● Adapt quickly to evolving challenges  ● Python coding language 	● Microsoft Office Suite
+● IT Security Management		            #● Security Controls		    ● Legal and Ethical Aspects of IT Security
+● Associated cyber risks		            #● Incident detection	  	● Strategic and response planning
+● Organizational recovery techniques	  #● Attention to detail		  ● Teamwork skills
+● Adapt quickly to evolving challenges  #● Python coding language 	● Microsoft Office Suite
 
 ### Work Experience
 Dental Specialist @ United States Army 
