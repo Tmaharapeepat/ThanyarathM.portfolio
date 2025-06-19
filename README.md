@@ -1,61 +1,50 @@
-# ThanyarathM.portfolio
-# Cybersecurity
+import React from 'react';
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Mail } from 'lucide-react';
 
-### Education
-Master of Business Administration (M.B.A) Concentration in Cyber Security | The University of Texas at Tyler – United States
-Master of Business Administration (M.B.A) in Logistics & Supply Chain Management| Ramkhamhaeng University – Thailand
-Bachelor of Arts (B.A.) Chinese Language and Culture | Huachiew Chalermprakiet University - Thailand
+export default function App() {
+  return (
+    <div className="min-h-screen bg-gray-50 text-gray-800 flex flex-col items-center p-6 space-y-10">
+      
+      {/* Header */}
+      <header className="w-full max-w-4xl text-center mt-10">
+        <h1 className="text-4xl font-bold mb-2">Hi, I'm Suzhen 👋</h1>
+        <p className="text-lg text-gray-600">Aspiring Cybersecurity Analyst | Passionate about Tech & Art</p>
+      </header>
 
-### Skill
-● IT Security Management		            
-● Security Controls		    
-● Legal and Ethical Aspects of IT Security
-● Associated cyber risks		            
-● Incident detection	  	
-● Strategic and response planning
-● Organizational recovery techniques	  
-● Attention to detail		  
-● Teamwork skills
-● Adapt quickly to evolving challenges  
-● Python coding language 	
-● Microsoft Office Suite
+      {/* About Section */}
+      <Card className="w-full max-w-4xl shadow-xl">
+        <CardContent className="p-6">
+          <h2 className="text-2xl font-semibold mb-4">About Me</h2>
+          <p>
+            I am a motivated professional with experience in overseas purchasing and a strong passion for cybersecurity. Currently seeking entry-level roles in cybersecurity or penetration testing, where I can apply my skills in risk management and incident response.
+          </p>
+        </CardContent>
+      </Card>
 
-### Work Experience
-## Dental Specialist @ United States Army 
+      {/* Projects Section */}
+      <Card className="w-full max-w-4xl shadow-xl">
+        <CardContent className="p-6">
+          <h2 className="text-2xl font-semibold mb-4">Projects</h2>
+          <ul className="list-disc list-inside space-y-2">
+            <li>Cybersecurity Case Study: Ransomware Defense Simulation</li>
+            <li>Procurement System Improvement Project – Reduced import lead times by 20%</li>
+            <li>Chibi-style Art Portfolio (Mint Super Arts)</li>
+          </ul>
+        </CardContent>
+      </Card>
 
-•	Managed patient documentation and compliance using secure data systems while maintaining a trustworthy and detail-oriented approach.
-•	Oversaw procurement and inventory processes with attention to budget constraints and strategic planning to ensure clinic readiness.
-•	Assisted with treatments and lab operations, demonstrating responsibility, accuracy, and production support in high-pressure scenarios.
-•	Supported approval processes and security-related documentation to maintain compliance standards.
-•	Practiced real-time monitoring and contributed to operational evaluations, helping identify and resolve systemic risks.
-•	Collaborated across units and disciplines to implement goals, support risk frameworks, and meet strategic outcomes.
-•	Demonstrated research and problem-solving abilities to enhance logistical planning and resource allocation.
-
-## Customer service @ H Mart
-
-•	Managed sales transactions and inventory data with integrity and accuracy, applying internal control standards.
-•	Addressed customer issues and inquiries, demonstrating responsibility, empathy, and effective communication.
-•	Operated POS systems and managed reward programs, aligning with company monitoring protocols.
-•	Supported approval processes for returns and refunds based on corporate policy.
-•	Demonstrated adaptability and time management under high-pressure situations with diverse customer needs.
-•	Developed data tracking habits and analytic skills to support improved service delivery.
-
-## Oversea Purchasing Supervisor @ PATKOL PUBLIC COMPANY LIMITED (Thailand)
-
-•	Planned and managed overseas orders while coordinating with suppliers to meet critical deadlines.
-•	Negotiated pricing and specifications, improving cost-efficiency and stakeholder communication.
-•	Oversaw import documentation and logistics, optimizing air/sea freight decisions.
-•	Reported KPIs, managed supplier payments, and nurtured long-term supplier relationships.
-•	Visited Chinese suppliers to ensure material quality and expand cross-cultural collaboration.
-•	Led implementation of procurement verification, analytics, and compliance strategies.
-•	Maintained integrity under pressure, delivering timely and accurate outcomes.
-•	Demonstrated strong negotiation and interpersonal capabilities in a global business context.
-
-## Chinese Interpreter (Oversea Purchase) @ KEMFAC CO.,LTD (Thailand)
-
-•	Summarized inventory reports, improving clarity and reporting efficiency.
-•	Followed up on shipping documents and managed logistics workflows.
-•	Recorded and translated meeting minutes with Chinese suppliers, enhancing cross-cultural communication.
-•	Bridged language and operational gaps between procurement teams and suppliers.
-•	Demonstrated strong time management, prioritization, and adaptability in a fast-paced environment.
-
+      {/* Contact Section */}
+      <Card className="w-full max-w-4xl shadow-xl">
+        <CardContent className="p-6 text-center">
+          <h2 className="text-2xl font-semibold mb-4">Contact</h2>
+          <p>Feel free to reach out for opportunities or collaborations!</p>
+          <Button className="mt-4" variant="default">
+            <Mail className="mr-2 h-4 w-4" /> Email Me
+          </Button>
+        </CardContent>
+      </Card>
+    </div>
+  );
+}
