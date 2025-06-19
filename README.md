@@ -7,10 +7,10 @@ Master of Business Administration (M.B.A) in Logistics & Supply Chain Management
 Bachelor of Arts (B.A.) Chinese Language and Culture | Huachiew Chalermprakiet University - Thailand
 
 ### Skill
-# ● IT Security Management		            
-#● Security Controls		    
-#● Legal and Ethical Aspects of IT Security
-#● Associated cyber risks		            
+● IT Security Management		            
+● Security Controls		    
+● Legal and Ethical Aspects of IT Security
+● Associated cyber risks		            
 ● Incident detection	  	
 ● Strategic and response planning
 ● Organizational recovery techniques	  
@@ -21,7 +21,8 @@ Bachelor of Arts (B.A.) Chinese Language and Culture | Huachiew Chalermprakiet U
 ● Microsoft Office Suite
 
 ### Work Experience
-Dental Specialist @ United States Army 
+## Dental Specialist @ United States Army 
+
 •	Managed patient documentation and compliance using secure data systems while maintaining a trustworthy and detail-oriented approach.
 •	Oversaw procurement and inventory processes with attention to budget constraints and strategic planning to ensure clinic readiness.
 •	Assisted with treatments and lab operations, demonstrating responsibility, accuracy, and production support in high-pressure scenarios.
@@ -30,7 +31,8 @@ Dental Specialist @ United States Army
 •	Collaborated across units and disciplines to implement goals, support risk frameworks, and meet strategic outcomes.
 •	Demonstrated research and problem-solving abilities to enhance logistical planning and resource allocation.
 
-Customer service @ H Mart
+## Customer service @ H Mart
+
 •	Managed sales transactions and inventory data with integrity and accuracy, applying internal control standards.
 •	Addressed customer issues and inquiries, demonstrating responsibility, empathy, and effective communication.
 •	Operated POS systems and managed reward programs, aligning with company monitoring protocols.
@@ -38,7 +40,8 @@ Customer service @ H Mart
 •	Demonstrated adaptability and time management under high-pressure situations with diverse customer needs.
 •	Developed data tracking habits and analytic skills to support improved service delivery.
 
-Oversea Purchasing Supervisor @ PATKOL PUBLIC COMPANY LIMITED (Thailand)
+## Oversea Purchasing Supervisor @ PATKOL PUBLIC COMPANY LIMITED (Thailand)
+
 •	Planned and managed overseas orders while coordinating with suppliers to meet critical deadlines.
 •	Negotiated pricing and specifications, improving cost-efficiency and stakeholder communication.
 •	Oversaw import documentation and logistics, optimizing air/sea freight decisions.
@@ -48,7 +51,8 @@ Oversea Purchasing Supervisor @ PATKOL PUBLIC COMPANY LIMITED (Thailand)
 •	Maintained integrity under pressure, delivering timely and accurate outcomes.
 •	Demonstrated strong negotiation and interpersonal capabilities in a global business context.
 
-Chinese Interpreter (Oversea Purchase) @ KEMFAC CO.,LTD (Thailand)
+## Chinese Interpreter (Oversea Purchase) @ KEMFAC CO.,LTD (Thailand)
+
 •	Summarized inventory reports, improving clarity and reporting efficiency.
 •	Followed up on shipping documents and managed logistics workflows.
 •	Recorded and translated meeting minutes with Chinese suppliers, enhancing cross-cultural communication.
