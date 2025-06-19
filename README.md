@@ -2,6 +2,9 @@
 
 # Cybersecurity and Supply Chain Management
 
+  <h2>About Me</h2>
+  <p>I am an enthusiastic professional with overseas purchasing experience and a strong interest in cybersecurity. Currently seeking entry-level roles in cybersecurity or penetration testing, where I can apply my knowledge and passion for digital safety.</p>
+
 ### Education
 - <b>Master of Business Administration (M.B.A) Concentration in Cyber Security | The University of Texas at Tyler – United States
 - <b>Master of Business Administration (M.B.A) in Logistics & Supply Chain Management| Ramkhamhaeng University – Thailand
